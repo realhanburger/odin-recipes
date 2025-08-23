@@ -16,13 +16,14 @@
     padding: 24px;
     font-size: 24px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(208, 240, 241);
+    background-color: rgb(241, 212, 241);
     margin: 24px;
+    text-align: center;
 }
 
 .catalog {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(238, 241, 208);
+    background-color: rgb(230, 233, 192);
     margin: 24px;
     padding: 10px;
     font-size: 20px;

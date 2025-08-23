@@ -1,0 +1,36 @@
+.title {
+    padding: 24px;
+    color: black;
+    background-color: rgb(226, 204, 225);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 24px;
+}
+
+.classic-button {
+    padding: 0px 24px;
+    color: black;
+    background-color: rgb(206, 200, 236);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 auto;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 24px;
+}
+
+.image-container {
+    width: 410px;
+    margin: 0 auto;
+    background-color: rgb(202, 235, 230);
+    text-align: center;
+}
+
+.ingredients-container, .instructions-container {
+    padding: 24px;
+    color: black;
+    background-color: rgb(235, 202, 202);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 24px;
+    font-size: 24px;
+}
